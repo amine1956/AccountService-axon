@@ -59,6 +59,31 @@
 
 ![image](https://user-images.githubusercontent.com/73759527/209237513-6c7c6c40-b558-4357-a0eb-1e05938b59d7.png)
 
+## la partie query:
+
+* Les entités JPA :
+
+![image](https://user-images.githubusercontent.com/73759527/209237695-8f804aa8-10f7-438c-8487-f2b805be524e.png)
+
+![image](https://user-images.githubusercontent.com/73759527/209237715-fb2402bb-8ef2-419f-8618-57bb16ae5d62.png)
+
+* AccountEventHandlerService:
+
+![image](https://user-images.githubusercontent.com/73759527/209237814-ce753879-86fa-436c-b4d7-c6ded36e5deb.png)
+
+* AccontQueryController:
+
+![image](https://user-images.githubusercontent.com/73759527/209237867-602e36dd-9a83-41a4-a184-44683c3b0865.png)
+
+
+![image](https://user-images.githubusercontent.com/73759527/209237918-07f5bed8-524e-42f3-894c-9a5e0b2a0e83.png)
+
+![image](https://user-images.githubusercontent.com/73759527/209237973-90e240a1-034c-4096-b3e7-d6e06897afdf.png)
+
+
+![image](https://user-images.githubusercontent.com/73759527/209238053-70d35d21-8a43-4972-8a36-ea7f033235aa.png)
+
+
 
 
 
